@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simply Noticing – A personal practice of watching the mind upon waking</title>
+  <style>
+    :root {
+      --bg: #f7f6f3;
+      --card: #ffffff;
+      --text: #2c2c2c;
+      --text-light: #555;
+      --accent: #3d6b7a;
+      --border: #e5e2dc;
+      --soft: #f0eeea;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      font-size: 18px;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      background: var(--card);
+      border-radius: 16px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.04);
+      overflow: hidden;
+    }
+
+    header {
+      padding: 60px 50px 40px;
+      text-align: center;
+      border-bottom: 1px solid var(--border);
+    }
+
+    h1 {
+      font-size: 2.4rem;
+      font-weight: 600;
+      letter-spacing: -0.5px;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+
+    .subtitle {
+      font-size: 1.15rem;
+      color: var(--text-light);
+      font-weight: 400;
+    }
+
+    .content {
+      padding: 50px;
+    }
+
+    .disclaimer {
+      background: var(--soft);
+      border-left: 4px solid var(--accent);
+      padding: 22px 26px;
+      margin-bottom: 48px;
+      border-radius: 0 8px 8px 0;
+      font-size: 0.95rem;
+      color: var(--text-light);
+    }
+
+    h2 {
+      font-size: 1.45rem;
+      font-weight: 600;
+      margin: 48px 0 20px;
+      color: var(--accent);
+    }
+
+    p {
+      margin-bottom: 22px;
+    }
+
+    .highlight {
+      background: #f4f8f9;
+      padding: 28px 30px;
+      border-radius: 10px;
+      margin: 36px 0;
+    }
+
+    footer {
+      background: var(--soft);
+      padding: 40px 50px;
+      border-top: 1px solid var(--border);
+      font-size: 0.98rem;
+    }
+
+    footer p {
+      margin-bottom: 16px;
+    }
+
+    .email {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .email:hover {
+      text-decoration: underline;
+    }
+
+    .donation-box {
+      margin-top: 28px;
+      padding-top: 24px;
+      border-top: 1px dashed var(--border);
+    }
+
+    .donate-btn {
+      display: inline-block;
+      margin: 18px 0;
+      padding: 12px 28px;
+      background: var(--accent);
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 500;
+    }
+
+    .donate-btn:hover {
+      opacity: 0.9;
+    }
+
+    @media (max-width: 600px) {
+      body { padding: 20px 12px; }
+      header, .content, footer { padding: 36px 24px; }
+      h1 { font-size: 1.9rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Simply Noticing</h1>
+      <p class="subtitle">A personal practice of watching the mind upon waking</p>
+    </header>
+
+    <div class="content">
+      <div class="disclaimer">
+        <strong>Disclaimer</strong><br>
+        This is simply an account of my own experience. It is not medical, psychological, or therapeutic advice. Mental health is complex and individual. If you are struggling, please consult a qualified professional. What follows is only what I noticed and what happened for me.
+      </div>
+
+      <p>Like many people, I experienced long-term challenges with my mental health. Over the years I explored a wide range of approaches. The understanding that eventually helped me most came largely from the writings on calmdownmind.com and the teachings of Eckhart Tolle. Among everything I tried, one very simple practice stood out as the most effective in making the mind calmer and reducing the intensity of living inside it.</p>
+
+      <p>The practice itself is straightforward.</p>
+
+      <p>When you first wake up, simply notice the activity of the mind. It can be for one minute, ten minutes, or longer — there is no fixed length. All that is happening is a gentle growing of awareness of the mind’s activities. Everyone’s journey with this is different; I am only describing what I observed.</p>
+
+      <p>There is no goal of stopping thought. The mind thinks just as the heart beats — it is natural. The practice is simply about becoming more aware of the layers of the mind and the reactions that arise within them.</p>
+
+      <h2>Seeing the machine start</h2>
+
+      <p>For me, the clearest time to begin was right upon waking. The first thought appears and it feels like the cogs of a machine beginning to turn. Once those cogs start, they tend not to stop easily, and it is easy to spend the entire day inside the mind. If I was not conscious enough in those first moments, I simply got pulled into the machine and lived the day from there.</p>
+
+      <p>When you first start watching, the earliest layer you notice is often something random — whatever thought happens to appear. Beneath that, there is frequently another layer that is harder to see at first: a sense of discomfort, emotion, or fear. Sometimes it shows up as the quiet thought “I don’t like this.” At other times it does not even feel like a thought. It can feel like a physical energy or sensation connected deep in the body. Notice that too. Anything arising inside that does not seem clearly linked to a thought usually comes from a deeper, more hidden layer.</p>
+
+      <p>There are layers upon layers. A second voice or belief can quietly come into existence. The process can feel overwhelming at first, so it is completely normal for the mind to resist. Then you notice the resistance itself — another layer. I simply kept being aware. At one point I saw a still deeper layer I had not recognised before: the mind itself trying to be aware. When I noticed that, there was peace. It felt as though I had moved through the layers.</p>
+
+      <div class="highlight">
+        Even a thought or belief such as “I am doing this because I want to fix something” is a very deep part of the mind. Just see it. Notice it. That is all. You are not doing this practice in order to fix anything. That intention itself is simply another layer.
+      </div>
+
+      <h2>What shifted over time</h2>
+
+      <p>It can take days, months, or longer before the different layers become clearer. In my experience, by slowly becoming more aware of the mind’s activity each morning, the cogs gradually turned less strongly and less constantly. I no longer spent the day as lost in the mind as before. The mind grew quieter, not because I forced it to stop, but because more of its activity was simply seen.</p>
+
+      <p>This is only my experience. The practice remains the same: upon waking, notice what the mind is doing. Nothing more is required.</p>
+    </div>
+
+    <footer>
+      <p>If any of this resonates, you might find further related exploration in the material on <strong>calmdownmind.com</strong> and in the work of <strong>Eckhart Tolle</strong>. Again, what is shared here is simply one person’s observation of a simple practice of noticing.</p>
+
+      <div class="donation-box">
+        <p>If this ever helps you in a meaningful way and you feel moved to support the sharing of this personal experience, you are welcome to make a donation:</p>
+        
+        <a href="https://ko-fi.com/mikelb555" class="donate-btn" target="_blank">Support on Ko-fi</a>
+
+        <p>You can also email me at <a href="mailto:mikelb555@googlemail.com" class="email">mikelb555@googlemail.com</a> — I would be glad to hear whether any of this resonated or was helpful (or even if it wasn’t).</p>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
